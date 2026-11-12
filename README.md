@@ -1,7 +1,7 @@
 # My Favorite Movie: Godzilla
 
-## About
-**Godzilla** is a *giant monster with iconic atomic breath* franchise that started in Japan in 1954 with the original film, *Gojira*.
+## Who is Godzilla?
+**Godzilla** is typically depicted as a massive, dinosaur-like creature, often around 100 meters tall, with a long tail and armored dorsal plates reminiscent of a Stegosaurus. Its most iconic ability is the emission of a radioactive energy beam, commonly called *atomic breath*. Godzilla first appeared in the 1954 Japanese film Godzilla, directed by Ishirō Honda, as a colossal, prehistoric reptilian monster awakened and empowered by nuclear radiation and testing.
 
 ## Main Characters
 - Godzilla
@@ -9,12 +9,12 @@
 - Mothra
 - Rodan
 
-## Top 3 Godzilla Movies
+## My Top 3 Godzilla Movies
 1. Godzilla: King of the Monsters (2019)
 2. Godzilla (2014)
 3. Godzilla x Kong: The New Empire (2024)
 
-## Quote
+## My favorite Quote
 > ***Long live the King!***
 
 ## Details
@@ -26,15 +26,13 @@
 | **Known as** | ***King of Monsters*** |
 | **Weapon** | `atomic breath` |
 
-## Quote
-> Long live the King!
-
 ## Why I Like It
-***Because he is King of the Monsters*** with his iconic `atomic breath` and epic battles. ~~Boring~~ No one can resist Godzilla!
+***Because he is King of the Monsters*** with his iconic `atomic breath` and epic battles. ~~Boring~~ No one can resist Godzilla, I swearr!
 
-- [x] Amazing monster fights
-- [ ] Still need to watch many Godzilla movies
-- [ ] He is the king
+## Fights with Godzilla
+- [x] Ghidora
+- [x] Mechagodzilla
+- [ ] Kong (they're both strong)
 
 [Watch the trailer](https://www.youtube.com/results?search_query=godzilla+x+kong+the+new+empire+trailer)
 
