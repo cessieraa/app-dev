@@ -1,13 +1,13 @@
 # My Favorite Movie: Godzilla
 
 ## Who is Godzilla?
-**Godzilla** is typically depicted as a massive, dinosaur-like creature, often around 100 meters tall, with a long tail and armored dorsal plates reminiscent of a Stegosaurus. Its most iconic ability is the emission of a radioactive energy beam, commonly called *atomic breath*. Godzilla first appeared in the 1954 Japanese film Godzilla, directed by Ishirō Honda, as a colossal, prehistoric reptilian monster awakened and empowered by nuclear radiation and testing.
+**Godzilla** is typically depicted as a massive, dinosaur-like creature, often around 100 meters tall, with a long tail and armored dorsal plates reminiscent of a Stegosaurus. Its most iconic ability is the emission of a radioactive energy beam, commonly called *atomic breath*. Godzilla first appeared in the 1954 Japanese film Godzilla, directed by Ishirō Honda, as a colossal, prehistoric reptilian monster awakened and empowered by nuclear radiation and testing.  :t-rex:
 
 ## Main Characters
 - Godzilla
 - King Ghidorah
 - Mothra
-- Rodan
+- Rodan 
 
 ## My Top 3 Godzilla Movies
 1. Godzilla: King of the Monsters (2019)
