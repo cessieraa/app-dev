@@ -27,7 +27,7 @@
 | **Weapon** | `atomic breath` |
 
 ## Why I Like It
-***Because he is King of the Monsters*** with his iconic `atomic breath` and epic battles. ~~Boring~~ No one can resist Godzilla, I swearr!
+***Because he is King of the Monsters*** with his iconic `atomic breath` and epic battles with different monsters. ~~Boring~~ No one can resist Godzilla, I swearr!
 
 ## Fights with Godzilla
 - [x] Ghidora
